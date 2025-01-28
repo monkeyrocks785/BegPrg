@@ -1,2 +1,5 @@
-# BegPrg
-Beginner friendly python programs to learn and practice python basics
+# Beginner Programs
+Python Programs for beginners...
+
+# Content
+These are some codes written by me using python during my learning period, which will help you to understand python from start...
